@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNIVERSIDAD\\prueba_github2\\prueba_github2.csproj": {}
+    "D:\\UNIVERSIDAD\\prueba_github2-1\\prueba_github2.csproj": {}
   },
   "projects": {
-    "D:\\UNIVERSIDAD\\prueba_github2\\prueba_github2.csproj": {
+    "D:\\UNIVERSIDAD\\prueba_github2-1\\prueba_github2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVERSIDAD\\prueba_github2\\prueba_github2.csproj",
+        "projectUniqueName": "D:\\UNIVERSIDAD\\prueba_github2-1\\prueba_github2.csproj",
         "projectName": "prueba_github2",
-        "projectPath": "D:\\UNIVERSIDAD\\prueba_github2\\prueba_github2.csproj",
+        "projectPath": "D:\\UNIVERSIDAD\\prueba_github2-1\\prueba_github2.csproj",
         "packagesPath": "C:\\Users\\yanpi\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVERSIDAD\\prueba_github2\\obj\\",
+        "outputPath": "D:\\UNIVERSIDAD\\prueba_github2-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yanpi\\AppData\\Roaming\\NuGet\\NuGet.Config"
