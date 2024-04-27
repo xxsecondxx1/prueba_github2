@@ -29,3 +29,34 @@ D:\universidad\program 1\programas\prueba_github2\obj\Debug\net8.0\refint\prueba
 D:\universidad\program 1\programas\prueba_github2\obj\Debug\net8.0\prueba_github2.pdb
 D:\universidad\program 1\programas\prueba_github2\obj\Debug\net8.0\prueba_github2.genruntimeconfig.cache
 D:\universidad\program 1\programas\prueba_github2\obj\Debug\net8.0\ref\prueba_github2.dll
+D:\UNIVERSIDAD\prueba_github2\bin\Debug\net8.0\appsettings.Development.json
+D:\UNIVERSIDAD\prueba_github2\bin\Debug\net8.0\appsettings.json
+D:\UNIVERSIDAD\prueba_github2\bin\Debug\net8.0\prueba_github2.staticwebassets.runtime.json
+D:\UNIVERSIDAD\prueba_github2\bin\Debug\net8.0\prueba_github2.exe
+D:\UNIVERSIDAD\prueba_github2\bin\Debug\net8.0\prueba_github2.deps.json
+D:\UNIVERSIDAD\prueba_github2\bin\Debug\net8.0\prueba_github2.runtimeconfig.json
+D:\UNIVERSIDAD\prueba_github2\bin\Debug\net8.0\prueba_github2.dll
+D:\UNIVERSIDAD\prueba_github2\bin\Debug\net8.0\prueba_github2.pdb
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\prueba_github2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\prueba_github2.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\prueba_github2.AssemblyInfo.cs
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\prueba_github2.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\prueba_github2.MvcApplicationPartsAssemblyInfo.cache
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\prueba_github2.RazorAssemblyInfo.cache
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\prueba_github2.RazorAssemblyInfo.cs
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\prueba_github2.sourcelink.json
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\staticwebassets.build.json
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\staticwebassets.development.json
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\staticwebassets\msbuild.prueba_github2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\staticwebassets\msbuild.build.prueba_github2.props
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.prueba_github2.props
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.prueba_github2.props
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\scopedcss\bundle\prueba_github2.styles.css
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\scopedcss\projectbundle\prueba_github2.bundle.scp.css
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\prueba_github2.dll
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\refint\prueba_github2.dll
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\prueba_github2.pdb
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\prueba_github2.genruntimeconfig.cache
+D:\UNIVERSIDAD\prueba_github2\obj\Debug\net8.0\ref\prueba_github2.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\universidad\\program 1\\programas\\prueba_github2\\prueba_github2.csproj": {}
+    "D:\\UNIVERSIDAD\\prueba_github2\\prueba_github2.csproj": {}
   },
   "projects": {
-    "D:\\universidad\\program 1\\programas\\prueba_github2\\prueba_github2.csproj": {
+    "D:\\UNIVERSIDAD\\prueba_github2\\prueba_github2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\universidad\\program 1\\programas\\prueba_github2\\prueba_github2.csproj",
+        "projectUniqueName": "D:\\UNIVERSIDAD\\prueba_github2\\prueba_github2.csproj",
         "projectName": "prueba_github2",
-        "projectPath": "D:\\universidad\\program 1\\programas\\prueba_github2\\prueba_github2.csproj",
-        "packagesPath": "C:\\Users\\mayron\\.nuget\\packages\\",
-        "outputPath": "D:\\universidad\\program 1\\programas\\prueba_github2\\obj\\",
+        "projectPath": "D:\\UNIVERSIDAD\\prueba_github2\\prueba_github2.csproj",
+        "packagesPath": "C:\\Users\\yanpi\\.nuget\\packages\\",
+        "outputPath": "D:\\UNIVERSIDAD\\prueba_github2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mayron\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\yanpi\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
